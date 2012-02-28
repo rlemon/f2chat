@@ -25,6 +25,6 @@ class User extends Controller {
 		} 
 		
 	}
-	
+
 
 }
